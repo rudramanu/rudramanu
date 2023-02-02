@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Aggregation Pipeline in MongoDB**
 
-- 👨‍💻 All of my projects are available at [rudramanu.github.io]
+- 👨‍💻 All of my projects are available at [rudramanu.github.io](rudramanu.github.io)
 
 - 💬 Ask me about **Node**
 
