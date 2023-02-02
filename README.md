@@ -1,14 +1,14 @@
-[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg)](rudramanu.github.io)
+![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg)
 <h1 align="center">Hi 👋, I'm Rudra Manu</h1>
 <h3 align="center">I am a passionate Full Stack Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">(rudramanu.github.io)
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudramanu&label=Profile%20views&color=0e75b6&style=flat" alt="rudramanu" /> </p>
 
 
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [rudramanu.github.io](rudramanu.github.io)
+- 👨‍💻 All of my projects are available at [rudramanu.github.io]
 
 - 💬 Ask me about **Node**
 
