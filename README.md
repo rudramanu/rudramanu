@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Aggregation Pipeline in MongoDB**
 
-- 👨‍💻 All of my projects are available at [rudramanu.github.io](https://rudramanu.github.io/)
+- 👨‍💻 All of my projects are available at [https://rudramanu.github.io/](https://rudramanu.github.io/)
 
 - 💬 Ask me about **Node**
 
